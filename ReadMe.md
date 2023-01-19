@@ -14,7 +14,5 @@ I am 19 years old. Programming is my hobby and I want to turn it into work. I al
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)<br>
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrO9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Piotrullo9?theme=dark&font=Staatliches)
