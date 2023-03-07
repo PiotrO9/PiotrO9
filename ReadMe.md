@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 19 years old. Programming is my hobby and I want to turn it into work. I also love self-improvement<br>I like .NET and C#. Currently, I am going to develop my web dev skills and start doing .NET ASP<br>projects. Now I am learning Vue.js Framework
+I am 19 years old. Programming is my hobby and I want to turn it into work. I also love self-improvement<br>I like .NET and C#. Currently, I am going to develop my frontend skills. <br /> Now I am learning Typescript and React Framework
 
 
 ## 🌐 Socials:
