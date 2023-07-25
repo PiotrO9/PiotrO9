@@ -31,6 +31,7 @@
 ### Learning...
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Piotrullo9?theme=dark&font=Staatliches)
